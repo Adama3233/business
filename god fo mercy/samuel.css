@@ -1,0 +1,92 @@
+p{font-size: 70; color: brown;background-color: cadetblue; font-style: italic;
+    
+}
+h3{background-color: rgb(255, 115, 0);
+text-align: left;
+}
+
+nav{
+    position: fixed;
+    top: 0%;
+    left: 0;
+    padding: 40px;
+    box-sizing: border-box;
+    background: burlywood;
+    height: 90px;
+    width: 100px;
+
+    
+h2{
+    background-color: red;
+    text-align: left;
+    }
+  <div class="img">src="peace4.jpg"/></div>
+  .img{
+      display: inline-block;
+height: 100px;
+background-color:grey;
+margin: right 10px;
+}
+
+
+
+}
+#mainnav  li{
+    
+    float: left;
+    width: 120px;
+    height: 25;
+    text-align: center;
+    background-color: #ccc;
+    border: right 1px black solid;
+    text-decoration-line: none;
+    line-height: 35px;
+} 
+#mainnav ul li a{
+color: rgb(255, 255, 255);
+text-decoration: none;
+}
+#mainnav ul li hover{
+    background: #18701d;
+    color:#f8f068;
+}
+#mainnav ul li a{
+    color: brown;
+    text-decoration:none ;
+    display:block;
+}
+body#home .nav-home, {
+    background: #29336B;
+    color:f8f068;
+    display:block;
+}
+
+
+#sidebar {
+    float:left;
+    width:300px;
+    background: opx-color:#ccc;
+    padding:0px 20px 0px 20px
+}
+p{
+    background-color: chartreuse;
+    width: 960px;
+    border: thin solid rgb(132, 0, 255);
+    margin: outo; 
+
+
+}
+ #h3 {
+background-color: blanchedalmond;
+background-repeat:no-repeat;
+width:128px
+heigt:128px
+}
+{
+    background-color: blueviolet;
+    width: 12px;
+    height: 20px;
+}
+
+
+    
